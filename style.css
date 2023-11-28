@@ -20,7 +20,6 @@ body {
     box-sizing: border-box;
     text-align: center;
     background-image: url('Assets/background.jpeg');
-    background-size: cover;
 }
 
 .container {
